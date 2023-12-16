@@ -1,1 +1,1 @@
-# 8-hs-harcama-hesaplayici
+#harcama-hesaplayici
