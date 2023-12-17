@@ -21,4 +21,4 @@ Bu basit bir harcama hesaplayıcı uygulamasıdır. Kullanıcılar harcamaların
 
 ## Ekran
 
-[](https://github.com/omergzlaydn/Harcama-Hesaplayici-App/blob/main/images/hh.gif)
+![](https://github.com/omergzlaydn/Harcama-Hesaplayici-App/blob/main/images/hh.gif)
